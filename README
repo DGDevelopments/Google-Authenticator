@@ -1,0 +1,9 @@
+
+This is a cloned repository of a Google Authentication API Uploaded to Github via: https://github.com/rande/GoogleAuthenticator/tree/master/lib/Google/Authenticator
+
+As the repository is vague in usage & Currently unmaintained. I will be updating the package infrequently but will provide a better understanding on how the two factor authentication will work
+
+
+Example one, a very basic authentication process to include an intial setup (link via secret key or barcode from the website to the Google Authenticator Application) & A very basic login script reliant on sessions.
+
+Example Two, [To Come] Will include a more stable method to using the Google Authenticator & Include some pracitcal usages 
